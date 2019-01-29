@@ -1,2 +1,2 @@
 # multiroom_chat
-Chat web de troca de mensagens pelo com nodeJS 
+Chat web de troca de mensagens com nodeJS 
